@@ -1,0 +1,1001 @@
+OrderID,Region,Category,Quantity,Sales
+CA-2015-169019,Central,Technology,9.0,431.136
+CA-2016-114811,East,Office Supplies,5.0,67.15
+CA-2017-168543,East,Office Supplies,7.0,706.86
+CA-2018-157112,East,Office Supplies,5.0,11.76
+CA-2018-110905,Central,Office Supplies,5.0,24.9
+US-2015-137869,Central,Office Supplies,3.0,6.12
+CA-2018-125990,West,Office Supplies,3.0,39.624
+CA-2018-101483,South,Technology,5.0,22.0
+CA-2016-146563,Central,Office Supplies,3.0,2.724
+CA-2015-125514,Central,Office Supplies,2.0,25.96
+CA-2018-120719,West,Office Supplies,5.0,34.76
+CA-2017-118689,Central,Office Supplies,7.0,34.37
+US-2015-164406,West,Office Supplies,3.0,152.91
+CA-2016-146486,East,Technology,2.0,13.98
+CA-2018-167626,Central,Technology,2.0,100.8
+CA-2018-165603,East,Office Supplies,2.0,12.96
+US-2018-155999,West,Technology,5.0,159.96
+CA-2018-161774,Central,Technology,1.0,7.992
+CA-2016-124058,,,,
+CA-2016-161795,East,Office Supplies,2.0,3.008
+CA-2015-152254,South,Office Supplies,7.0,310.688
+CA-2018-147760,South,Furniture,3.0,523.764
+CA-2016-154970,,,,
+CA-2017-113600,East,Office Supplies,3.0,2.214
+US-2017-131912,West,Office Supplies,1.0,11.744
+CA-2017-126732,,,,
+CA-2018-122364,West,Technology,3.0,859.2
+US-2015-138247,West,Office Supplies,2.0,361.96
+CA-2018-129021,South,Furniture,2.0,2.784
+CA-2017-111794,Central,Technology,3.0,79.512
+US-2018-120147,West,Office Supplies,2.0,6.08
+US-2015-147648,West,Office Supplies,2.0,81.98
+CA-2018-107125,West,Office Supplies,7.0,117.488
+CA-2018-129021,South,Office Supplies,2.0,49.568
+CA-2018-157987,East,Technology,2.0,238.0
+CA-2018-144491,Central,Furniture,3.0,600.558
+CA-2018-157987,East,Furniture,5.0,1282.41
+CA-2018-149559,West,Office Supplies,2.0,22.18
+CA-2017-149503,West,Office Supplies,8.0,273.92
+CA-2018-107552,East,Office Supplies,1.0,6.68
+CA-2015-105648,West,Furniture,3.0,626.352
+CA-2017-144015,West,Office Supplies,2.0,12.48
+CA-2018-124674,Central,Furniture,2.0,327.7328
+CA-2018-104885,East,Office Supplies,7.0,57.96
+CA-2015-117765,Central,Furniture,2.0,161.96
+CA-2015-125556,East,Technology,7.0,832.93
+CA-2018-161956,,,,
+CA-2018-165715,South,Office Supplies,1.0,32.776
+CA-2017-144148,West,Furniture,7.0,863.128
+CA-2015-163650,East,Office Supplies,3.0,34.5
+CA-2015-156244,South,Office Supplies,6.0,31.104
+CA-2018-159597,West,Office Supplies,2.0,63.56
+CA-2015-163748,Central,Technology,5.0,1999.96
+CA-2018-166933,West,Office Supplies,1.0,1.81
+CA-2016-169397,East,Office Supplies,6.0,22.704
+US-2017-169040,West,Office Supplies,7.0,248.08
+CA-2017-149671,West,Office Supplies,6.0,61.38
+CA-2017-160129,East,Furniture,2.0,14.368
+US-2016-153283,East,Office Supplies,2.0,15.56
+CA-2018-133207,West,Technology,4.0,57.568
+CA-2017-127250,West,Office Supplies,3.0,8.82
+CA-2017-165330,,,,
+CA-2016-160227,East,Furniture,11.0,2621.322
+CA-2016-132374,Central,Office Supplies,4.0,79.36
+CA-2018-145338,East,Office Supplies,2.0,4.768
+CA-2018-136238,Central,Office Supplies,3.0,16.032
+CA-2017-161473,East,Office Supplies,2.0,20.7
+CA-2018-148691,East,Office Supplies,1.0,3.15
+CA-2016-150770,West,Office Supplies,3.0,8.82
+CA-2017-139010,West,Office Supplies,4.0,18.56
+CA-2017-158694,West,Office Supplies,5.0,61.4
+CA-2016-102260,South,Office Supplies,4.0,720.064
+CA-2018-155824,South,Office Supplies,4.0,13.092
+CA-2015-105165,Central,Office Supplies,3.0,21.864
+CA-2016-161998,South,Furniture,3.0,63.552
+US-2018-147998,West,Office Supplies,5.0,133.12
+CA-2016-151722,East,Technology,4.0,288.0
+US-2015-112872,West,Furniture,1.0,275.49
+CA-2017-146157,Central,Technology,3.0,81.576
+CA-2017-119074,South,Furniture,4.0,39.92
+CA-2017-124590,East,Office Supplies,2.0,110.096
+CA-2017-137043,South,Furniture,6.0,572.76
+CA-2017-144218,West,Office Supplies,7.0,1085.42
+CA-2017-141180,South,Office Supplies,4.0,7.764
+CA-2018-155621,East,Furniture,10.0,274.2
+CA-2016-151785,Central,Office Supplies,6.0,7.104
+CA-2018-130386,Central,Office Supplies,3.0,16.056
+US-2015-165659,South,Technology,7.0,881.93
+CA-2018-117947,East,Technology,1.0,37.91
+US-2018-159205,South,Furniture,5.0,61.0
+CA-2015-119375,East,Office Supplies,5.0,57.75
+CA-2016-156608,Central,Office Supplies,4.0,3.592
+CA-2016-120103,West,Furniture,2.0,7.712
+CA-2018-147550,East,Furniture,3.0,11.352
+CA-2015-107524,East,Office Supplies,2.0,11.36
+US-2015-155817,South,Office Supplies,2.0,61.568
+CA-2017-146157,Central,Office Supplies,1.0,38.432
+CA-2016-138674,,,,
+CA-2017-113621,East,Furniture,2.0,172.5
+US-2017-121013,South,Office Supplies,2.0,25.06
+CA-2017-116379,West,Office Supplies,2.0,57.584
+CA-2017-155565,East,Office Supplies,5.0,54.9
+CA-2015-110786,,,,
+CA-2018-117632,West,Furniture,5.0,285.48
+CA-2015-125171,East,Office Supplies,5.0,14.4
+CA-2017-149237,Central,Furniture,3.0,26.94
+CA-2018-108910,East,Furniture,3.0,103.056
+CA-2017-114727,West,Office Supplies,3.0,1.872
+US-2015-135972,West,Technology,2.0,246.384
+CA-2017-156811,West,Office Supplies,4.0,43.92
+CA-2017-138520,East,Furniture,6.0,388.704
+CA-2018-151750,Central,Office Supplies,14.0,13.748
+CA-2017-116561,West,Office Supplies,2.0,39.872
+US-2016-126753,East,Technology,4.0,519.792
+US-2015-164406,,,,
+US-2015-140452,,,,
+CA-2015-117464,West,Office Supplies,4.0,11.52
+CA-2015-151946,East,Furniture,2.0,56.96
+CA-2017-145583,West,Office Supplies,1.0,35.44
+CA-2015-103317,South,Furniture,3.0,213.216
+CA-2018-135279,East,Office Supplies,3.0,8.64
+CA-2017-166275,West,Technology,1.0,199.99
+CA-2017-137239,East,Office Supplies,2.0,113.552
+CA-2018-160031,East,Office Supplies,3.0,74.352
+CA-2017-166618,East,Office Supplies,1.0,23.65
+CA-2016-129896,West,Office Supplies,2.0,82.368
+CA-2018-160458,South,Office Supplies,5.0,25.92
+US-2017-105578,,,,
+CA-2018-158071,West,Office Supplies,4.0,11.56
+CA-2018-127180,East,Technology,8.0,2399.6
+CA-2018-154949,,,,
+US-2015-164616,East,Office Supplies,4.0,76.776
+CA-2018-140298,Central,Furniture,1.0,7.996
+CA-2018-160122,Central,Furniture,2.0,127.386
+CA-2018-117702,East,Furniture,5.0,20.9
+CA-2017-133550,Central,Furniture,3.0,272.94
+US-2016-122140,Central,Technology,7.0,50.12
+CA-2017-131205,South,Office Supplies,3.0,5.28
+CA-2016-128139,South,Office Supplies,3.0,294.93
+CA-2018-130141,West,Furniture,4.0,579.136
+CA-2016-145457,West,Furniture,5.0,46.9
+CA-2016-136196,East,Furniture,3.0,322.59
+CA-2015-138317,East,Office Supplies,4.0,24.896
+US-2018-118556,Central,Furniture,3.0,106.869
+CA-2017-105732,Central,Office Supplies,3.0,17.61
+CA-2017-111682,East,Office Supplies,2.0,14.56
+CA-2015-110611,East,Office Supplies,5.0,83.92
+CA-2016-142237,East,Office Supplies,5.0,11.12
+CA-2015-140816,West,Technology,7.0,447.944
+US-2016-145436,South,Furniture,8.0,389.696
+CA-2017-115917,West,Office Supplies,4.0,15.424
+CA-2018-128783,Central,Technology,4.0,113.52
+CA-2018-152275,Central,Office Supplies,6.0,6.672
+CA-2015-102673,South,Office Supplies,12.0,47.808
+CA-2017-166674,East,Office Supplies,3.0,59.52
+US-2017-122245,West,Furniture,3.0,393.165
+CA-2018-113530,West,Furniture,12.0,681.408
+CA-2016-155635,South,Office Supplies,3.0,48.81
+CA-2017-126102,West,Office Supplies,2.0,276.784
+CA-2018-102610,South,Office Supplies,2.0,4.928
+CA-2015-140396,East,Office Supplies,3.0,34.74
+CA-2016-161718,East,Furniture,5.0,364.41
+US-2016-125374,Central,Furniture,2.0,107.772
+CA-2018-135783,West,Furniture,2.0,18.28
+CA-2015-130575,Central,Office Supplies,3.0,9.264
+CA-2016-138009,Central,Office Supplies,9.0,161.82
+CA-2015-133592,East,Technology,4.0,1687.8
+CA-2018-169327,West,Furniture,5.0,511.5
+US-2017-143819,East,Technology,7.0,4899.93
+CA-2017-162187,East,Office Supplies,4.0,387.136
+CA-2016-134859,East,Office Supplies,4.0,20.736
+CA-2016-163104,West,Office Supplies,2.0,11.96
+CA-2015-140858,East,Office Supplies,3.0,31.086
+CA-2017-140256,West,Office Supplies,2.0,5.76
+CA-2017-152163,South,Office Supplies,2.0,12.96
+CA-2015-104829,West,Office Supplies,7.0,21.98
+CA-2018-131807,West,Office Supplies,5.0,14.9
+US-2018-136707,West,Office Supplies,4.0,14.016
+CA-2018-102946,West,Office Supplies,3.0,75.792
+CA-2018-111815,Central,Furniture,1.0,180.98
+US-2018-129203,Central,Office Supplies,4.0,195.136
+CA-2015-108903,East,Office Supplies,5.0,14.48
+CA-2016-155054,East,Office Supplies,2.0,29.84
+CA-2018-145233,West,Technology,2.0,105.584
+US-2016-131359,West,Technology,5.0,87.96
+CA-2015-124730,East,Office Supplies,3.0,12.912
+US-2018-118087,East,Furniture,2.0,17.024
+CA-2015-111003,East,Office Supplies,6.0,289.2
+CA-2017-130029,West,Office Supplies,2.0,3.96
+CA-2018-145807,West,Office Supplies,5.0,354.9
+CA-2015-157623,West,Office Supplies,2.0,10.56
+CA-2018-117079,South,Technology,3.0,863.88
+US-2018-106145,West,Office Supplies,6.0,71.88
+CA-2018-137918,West,Office Supplies,7.0,97.3
+CA-2017-105732,Central,Office Supplies,2.0,378.0
+CA-2018-132290,Central,Furniture,4.0,933.408
+CA-2018-130771,Central,Technology,1.0,124.792
+US-2015-163797,West,Office Supplies,8.0,49.792
+CA-2017-168032,Central,Office Supplies,3.0,1.728
+US-2018-128118,South,Office Supplies,7.0,64.848
+CA-2018-123022,West,Technology,3.0,284.97
+CA-2016-155068,South,Technology,2.0,11.824
+CA-2016-127509,Central,Office Supplies,3.0,17.22
+CA-2017-156503,South,Office Supplies,4.0,35.008
+CA-2017-129280,East,Technology,3.0,431.976
+CA-2017-107146,West,Furniture,4.0,483.136
+CA-2015-121762,West,Office Supplies,2.0,81.96
+US-2016-128090,,,,
+CA-2018-134915,West,Furniture,2.0,113.888
+CA-2015-168368,Central,Office Supplies,3.0,51.9
+CA-2017-154711,East,Office Supplies,4.0,12.192
+US-2017-140172,,,,
+CA-2016-149566,West,Technology,3.0,39.0
+US-2018-146878,South,Office Supplies,1.0,12.294
+CA-2016-155124,West,Technology,3.0,16.776
+US-2018-163657,West,Furniture,2.0,236.528
+CA-2017-164672,East,Furniture,2.0,211.96
+CA-2017-128706,Central,Furniture,2.0,16.192
+US-2018-163790,West,Office Supplies,5.0,8.8
+CA-2015-122588,East,Furniture,2.0,52.96
+CA-2015-136567,South,Office Supplies,2.0,122.48
+CA-2015-103849,Central,Furniture,4.0,66.112
+CA-2015-126522,,,,
+CA-2015-117464,West,Office Supplies,10.0,236.5
+CA-2015-158470,South,Office Supplies,11.0,71.28
+CA-2016-127824,West,Office Supplies,3.0,17.94
+CA-2017-105746,East,Furniture,1.0,170.786
+CA-2017-118969,West,Office Supplies,6.0,54.792
+CA-2016-137946,West,Technology,2.0,959.984
+US-2015-112991,West,Furniture,3.0,338.352
+CA-2016-113145,East,Technology,7.0,1399.93
+CA-2018-142034,Central,Technology,4.0,72.0
+US-2017-103646,Central,Office Supplies,3.0,48.792
+CA-2017-142958,West,Office Supplies,2.0,6.096
+CA-2018-119004,South,Office Supplies,1.0,3.304
+CA-2017-150350,West,Technology,3.0,837.6
+CA-2016-160171,West,Technology,3.0,270.0
+US-2016-122140,Central,Office Supplies,2.0,32.192
+CA-2017-159142,South,Office Supplies,3.0,27.81
+US-2017-156986,,,,
+CA-2016-117884,South,Technology,7.0,447.944
+CA-2018-114370,Central,Technology,2.0,49.616
+CA-2017-114104,Central,Technology,7.0,944.93
+CA-2017-144015,West,Office Supplies,5.0,17.9
+CA-2018-167626,Central,Office Supplies,3.0,8.904
+CA-2016-132941,Central,Office Supplies,7.0,32.368
+US-2015-147627,South,Office Supplies,7.0,22.96
+CA-2018-136364,East,Technology,1.0,39.594
+CA-2017-160500,West,Office Supplies,5.0,6.72
+CA-2017-106950,,,,
+CA-2015-136861,South,Furniture,2.0,31.984
+CA-2018-144484,West,Office Supplies,5.0,406.6
+CA-2018-131807,,,,
+US-2016-160563,West,Technology,3.0,239.97
+US-2016-137008,,,,
+US-2018-147669,East,Technology,7.0,158.928
+CA-2015-162684,East,Office Supplies,2.0,5.68
+US-2018-108343,East,Furniture,2.0,163.764
+US-2017-140172,Central,Office Supplies,3.0,207.144
+CA-2018-130036,East,Technology,14.0,1119.888
+CA-2018-142391,West,Furniture,10.0,199.8
+CA-2018-161046,South,Office Supplies,4.0,42.68
+CA-2016-113628,,,,
+US-2017-116729,West,Office Supplies,7.0,45.36
+CA-2017-163328,West,Office Supplies,8.0,629.184
+CA-2016-107083,Central,Office Supplies,5.0,7.98
+CA-2017-161746,,,,
+CA-2018-124597,South,Office Supplies,3.0,15.528
+CA-2016-110814,East,Office Supplies,2.0,22.68
+CA-2018-167395,East,Technology,5.0,979.95
+CA-2017-163594,West,Office Supplies,3.0,36.624
+US-2017-113677,East,Technology,4.0,2279.96
+CA-2018-103380,West,Office Supplies,2.0,5.56
+CA-2018-100384,West,Office Supplies,8.0,385.6
+CA-2018-133256,Central,Office Supplies,1.0,4.54
+CA-2015-127614,South,Technology,3.0,234.45
+CA-2018-155880,Central,Furniture,7.0,1526.56
+CA-2017-160304,East,Technology,2.0,231.98
+CA-2015-151554,Central,Office Supplies,4.0,20.736
+CA-2016-169733,South,Office Supplies,1.0,9.952
+CA-2018-163860,Central,Furniture,3.0,7.968
+CA-2017-111409,South,Office Supplies,1.0,3.0
+CA-2018-115931,West,Office Supplies,5.0,18.45
+CA-2016-109638,West,Office Supplies,4.0,103.92
+US-2015-119081,Central,Office Supplies,3.0,357.93
+CA-2017-134887,Central,Technology,5.0,1287.45
+CA-2018-146724,Central,Office Supplies,10.0,22.0
+CA-2018-158729,South,Office Supplies,2.0,1665.62
+US-2018-165344,East,Technology,4.0,60.864
+CA-2017-103107,West,Technology,3.0,71.976
+US-2018-161935,East,Office Supplies,5.0,62.04
+CA-2018-141719,Central,Technology,5.0,239.96
+CA-2017-152534,West,Office Supplies,6.0,38.88
+CA-2017-134362,East,Office Supplies,4.0,15.936
+US-2016-126753,East,Technology,3.0,31.176
+CA-2018-154116,West,Office Supplies,4.0,54.32
+CA-2017-168844,East,Technology,6.0,179.7
+CA-2017-141397,West,Office Supplies,2.0,21.78
+US-2015-147704,Central,Office Supplies,6.0,31.68
+CA-2016-114468,Central,Office Supplies,8.0,12.032
+US-2018-150595,Central,Office Supplies,2.0,1.592
+CA-2018-124576,West,Office Supplies,2.0,54.896
+US-2018-147886,West,Office Supplies,3.0,20.04
+CA-2017-163937,West,Furniture,5.0,24.85
+US-2017-102141,East,Office Supplies,8.0,146.688
+CA-2017-145583,,,,
+CA-2016-167010,East,Furniture,4.0,547.136
+CA-2017-131744,East,Office Supplies,3.0,453.6
+CA-2018-142643,West,Furniture,1.0,22.72
+US-2018-107979,West,Technology,7.0,89.544
+CA-2015-110065,East,Technology,1.0,135.99
+CA-2016-140410,West,Furniture,3.0,42.6
+CA-2017-145135,East,Office Supplies,2.0,13.36
+CA-2015-157784,South,Office Supplies,3.0,19.44
+CA-2018-117513,West,Furniture,7.0,399.672
+CA-2015-114321,South,Furniture,13.0,500.24
+CA-2017-110898,Central,Furniture,2.0,145.98
+US-2015-165862,West,Furniture,3.0,351.216
+CA-2015-156594,West,Office Supplies,5.0,155.12
+CA-2018-165841,East,Office Supplies,5.0,69.5
+US-2017-148334,Central,Office Supplies,2.0,4.312
+CA-2015-158225,West,Office Supplies,2.0,40.68
+CA-2016-156482,East,Office Supplies,2.0,5.68
+CA-2018-100622,South,Office Supplies,2.0,10.688
+US-2015-148194,West,Office Supplies,4.0,57.68
+CA-2016-162376,East,Office Supplies,4.0,17.12
+CA-2018-131828,,,,
+CA-2015-169726,West,Office Supplies,7.0,2060.744
+CA-2016-161452,West,Furniture,3.0,892.224
+US-2017-117037,Central,Office Supplies,8.0,30.528
+CA-2017-136434,Central,Furniture,3.0,17.31
+CA-2018-162075,Central,Technology,7.0,537.544
+CA-2018-135279,East,Office Supplies,2.0,9.82
+CA-2016-118227,East,Office Supplies,1.0,25.99
+US-2018-103828,West,Office Supplies,7.0,83.79
+CA-2017-134936,West,Office Supplies,6.0,10.44
+CA-2015-106439,West,Office Supplies,2.0,15.968
+US-2018-104661,Central,Office Supplies,1.0,4.276
+CA-2018-112725,,,,
+CA-2016-144806,West,Office Supplies,5.0,19.92
+CA-2015-161508,Central,Office Supplies,3.0,16.032
+US-2017-169040,West,Office Supplies,3.0,59.808
+CA-2016-139731,,,,
+US-2018-107979,West,Office Supplies,2.0,35.168
+CA-2016-168459,South,Office Supplies,2.0,2.946
+CA-2015-109232,South,Furniture,6.0,545.94
+CA-2015-131450,West,Furniture,8.0,327.76
+US-2017-156986,West,Office Supplies,4.0,20.736
+CA-2018-147039,Central,Office Supplies,2.0,11.54
+CA-2017-168046,East,Furniture,3.0,313.722
+CA-2017-123526,,,,
+CA-2017-164784,South,Office Supplies,1.0,3.984
+CA-2018-128944,East,Furniture,3.0,38.784
+CA-2018-131807,West,Office Supplies,4.0,15.8
+CA-2015-126333,Central,Office Supplies,1.0,5.184
+US-2015-160444,Central,Office Supplies,11.0,281.424
+CA-2018-101700,,,,
+US-2018-161935,East,Office Supplies,5.0,13.12
+CA-2017-103163,West,Office Supplies,1.0,4.784
+CA-2016-123568,West,Office Supplies,3.0,5.04
+CA-2018-164756,South,Office Supplies,2.0,34.48
+CA-2015-144407,Central,Office Supplies,7.0,103.6
+US-2018-167920,South,Technology,2.0,1399.98
+CA-2015-109932,Central,Office Supplies,2.0,10.688
+CA-2016-110891,East,Furniture,4.0,344.372
+CA-2017-157280,,,,
+CA-2018-115119,East,Technology,1.0,61.542
+CA-2015-105872,East,Office Supplies,4.0,70.368
+CA-2017-112123,,,,
+CA-2017-113733,South,Technology,3.0,68.112
+CA-2018-122770,West,Furniture,8.0,201.04
+CA-2017-126284,Central,Office Supplies,5.0,83.7
+CA-2017-112697,South,Office Supplies,7.0,254.058
+CA-2015-120768,South,Furniture,14.0,1819.86
+CA-2016-158701,West,Office Supplies,6.0,56.16
+CA-2016-111395,Central,Office Supplies,4.0,335.52
+CA-2016-148628,West,Office Supplies,5.0,32.75
+CA-2015-103940,,,,
+CA-2016-153381,Central,Furniture,10.0,1408.1
+CA-2018-111717,Central,Furniture,3.0,239.358
+CA-2018-148985,West,Furniture,4.0,34.92
+CA-2017-152170,Central,Office Supplies,2.0,17.38
+CA-2015-150203,West,Office Supplies,6.0,250.26
+CA-2016-148635,West,Office Supplies,2.0,12.96
+CA-2018-161333,West,Furniture,2.0,86.26
+CA-2015-127558,West,Technology,3.0,772.47
+CA-2018-143084,,,,
+CA-2017-142398,,,,
+CA-2016-109575,East,Office Supplies,2.0,41.96
+CA-2016-146563,Central,Office Supplies,7.0,999.432
+CA-2018-109946,Central,Office Supplies,5.0,16.52
+CA-2017-148684,South,Technology,2.0,399.98
+CA-2016-137974,South,Furniture,7.0,1196.86
+CA-2015-124807,Central,Office Supplies,9.0,35.856
+CA-2018-121083,East,Technology,2.0,257.98
+CA-2017-168354,East,Office Supplies,3.0,17.04
+CA-2018-140949,East,Office Supplies,3.0,9.144
+CA-2018-147956,West,Office Supplies,6.0,1003.62
+CA-2018-119809,West,Office Supplies,9.0,2793.528
+CA-2016-115392,East,Office Supplies,5.0,22.45
+CA-2016-154340,West,Office Supplies,2.0,56.3
+US-2017-126431,East,Office Supplies,1.0,30.53
+CA-2018-107517,West,Technology,5.0,371.2
+CA-2015-107181,West,Office Supplies,4.0,34.24
+CA-2017-103982,Central,Technology,7.0,41.72
+CA-2018-134565,West,Furniture,3.0,174.42
+CA-2018-156237,East,Furniture,8.0,127.936
+CA-2018-117702,East,Furniture,5.0,1049.2
+US-2017-139388,East,Office Supplies,4.0,14.96
+CA-2018-121615,Central,Office Supplies,5.0,52.4
+CA-2018-156622,Central,Office Supplies,7.0,36.288
+CA-2018-140949,East,Office Supplies,5.0,18.75
+CA-2016-150875,,,,
+US-2016-157014,East,Furniture,1.0,35.49
+CA-2016-102582,South,Furniture,7.0,1056.86
+US-2015-146353,East,Office Supplies,4.0,22.92
+US-2015-147627,South,Furniture,3.0,1067.94
+CA-2018-113278,Central,Furniture,2.0,18.96
+CA-2015-162992,West,Office Supplies,5.0,22.55
+CA-2018-127656,Central,Office Supplies,4.0,30.32
+CA-2018-139913,East,Furniture,11.0,69.08
+CA-2017-128531,Central,Technology,3.0,297.576
+CA-2018-149720,Central,Furniture,6.0,30.336
+CA-2018-140515,West,Office Supplies,7.0,381.36
+CA-2015-164903,West,Office Supplies,2.0,12.96
+CA-2018-148999,South,Furniture,4.0,419.136
+CA-2016-119291,East,Office Supplies,4.0,47.36
+CA-2018-127180,East,Office Supplies,5.0,63.9
+CA-2017-148593,West,Office Supplies,5.0,46.35
+CA-2018-122595,Central,Technology,3.0,52.68
+CA-2018-167101,East,Office Supplies,4.0,221.92
+CA-2016-111073,East,Furniture,1.0,51.588
+CA-2018-111808,Central,Office Supplies,5.0,10.8
+CA-2017-158694,West,Furniture,9.0,467.46
+CA-2016-146948,East,Furniture,1.0,150.98
+CA-2015-165309,Central,Technology,2.0,148.48
+CA-2016-136798,Central,Furniture,3.0,123.96
+CA-2015-122070,East,Office Supplies,8.0,247.84
+CA-2016-145415,West,Office Supplies,3.0,40.74
+CA-2015-168305,West,Office Supplies,5.0,21.4
+CA-2018-145772,West,Technology,5.0,44.75
+CA-2018-148166,South,Office Supplies,4.0,17.856
+CA-2018-159688,West,Technology,1.0,79.99
+CA-2017-126004,East,Office Supplies,4.0,40.56
+CA-2016-117961,East,Office Supplies,3.0,14.73
+CA-2018-132262,West,Technology,2.0,79.98
+CA-2018-145737,South,Office Supplies,5.0,163.96
+CA-2018-143329,West,Furniture,3.0,41.37
+CA-2017-126732,,,,
+CA-2017-111696,West,Office Supplies,3.0,17.94
+US-2018-139465,East,Office Supplies,6.0,37.008
+CA-2018-131366,East,Technology,2.0,89.988
+CA-2016-110345,South,Office Supplies,2.0,4.608
+CA-2015-138436,West,Technology,3.0,66.3
+CA-2016-109386,South,Office Supplies,7.0,265.86
+CA-2018-101308,West,Technology,2.0,84.784
+US-2015-119137,West,Office Supplies,5.0,8.16
+US-2018-149006,West,Office Supplies,1.0,10.68
+CA-2015-107573,South,Office Supplies,3.0,23.472
+CA-2015-138177,West,Furniture,1.0,73.915
+CA-2016-124653,East,Office Supplies,7.0,132.79
+US-2015-155502,South,Office Supplies,3.0,19.44
+CA-2018-114216,East,Office Supplies,3.0,12.192
+US-2018-166688,West,Office Supplies,5.0,64.9
+CA-2018-102414,West,Technology,1.0,29.592
+US-2016-120957,West,Office Supplies,2.0,12.96
+CA-2017-100790,East,Office Supplies,5.0,14.7
+CA-2015-127131,West,Office Supplies,4.0,25.92
+US-2017-165505,East,Technology,2.0,99.98
+CA-2017-159730,West,Technology,2.0,105.584
+CA-2015-102652,West,Office Supplies,3.0,19.44
+CA-2018-116680,West,Furniture,8.0,1478.272
+CA-2018-168228,West,Office Supplies,4.0,123.92
+CA-2018-111332,Central,Office Supplies,3.0,131.94
+CA-2017-168956,Central,Furniture,3.0,62.958
+CA-2018-118017,West,Furniture,3.0,23.376
+CA-2017-158001,East,Office Supplies,5.0,1040.8
+CA-2015-164210,West,Office Supplies,4.0,35.808
+CA-2016-122287,West,Furniture,5.0,75.36
+US-2015-139500,Central,Furniture,2.0,37.296
+CA-2017-145261,,,,
+CA-2015-136336,South,Office Supplies,6.0,828.84
+CA-2018-130386,Central,Office Supplies,3.0,540.048
+CA-2018-111577,West,Office Supplies,7.0,307.776
+CA-2016-150714,West,Office Supplies,3.0,131.904
+US-2017-108455,West,Office Supplies,7.0,40.46
+CA-2018-101245,West,Technology,8.0,166.16
+CA-2017-128972,Central,Furniture,4.0,30.36
+CA-2015-128839,South,Office Supplies,9.0,45.0
+CA-2017-106950,,,,
+CA-2015-111003,East,Office Supplies,3.0,45.48
+CA-2018-138548,East,Office Supplies,2.0,97.84
+US-2017-102239,West,Office Supplies,2.0,5.728
+CA-2015-126403,East,Furniture,6.0,785.88
+CA-2017-114867,East,Technology,5.0,1499.97
+CA-2015-100762,,,,
+US-2015-147627,South,Office Supplies,3.0,6.63
+CA-2018-117401,Central,Office Supplies,7.0,706.86
+CA-2017-142097,South,Office Supplies,6.0,66.54
+CA-2015-132913,West,Office Supplies,1.0,13.97
+CA-2016-145184,East,Technology,3.0,104.97
+CA-2017-160717,West,Technology,9.0,3023.928
+US-2016-101511,East,Furniture,7.0,396.802
+CA-2015-159478,East,Furniture,3.0,15.24
+US-2018-101539,West,Technology,3.0,659.976
+CA-2016-144190,Central,Office Supplies,2.0,12.96
+US-2018-122672,East,Office Supplies,3.0,194.352
+CA-2018-152975,East,Office Supplies,5.0,29.95
+CA-2017-129868,West,Technology,2.0,302.384
+CA-2016-134922,East,Office Supplies,2.0,24.4
+CA-2018-121888,East,Technology,1.0,39.99
+CA-2015-165806,South,Technology,3.0,200.97
+CA-2016-163965,South,Office Supplies,2.0,17.44
+US-2015-117135,South,Furniture,1.0,104.01
+US-2015-121566,East,Office Supplies,1.0,2.688
+CA-2016-165085,East,Office Supplies,2.0,355.96
+CA-2015-165309,Central,Technology,3.0,241.176
+US-2017-155768,West,Office Supplies,3.0,22.92
+CA-2018-160927,Central,Office Supplies,1.0,13.48
+CA-2015-141313,East,Office Supplies,6.0,1737.18
+CA-2015-122336,East,Office Supplies,13.0,30.992
+CA-2017-157336,East,Office Supplies,6.0,88.08
+US-2018-119816,Central,Office Supplies,1.0,2.464
+CA-2018-115119,East,Office Supplies,7.0,81.438
+CA-2018-103380,,,,
+CA-2017-158358,East,Technology,2.0,159.98
+CA-2017-125094,West,Technology,4.0,479.72
+CA-2018-168641,East,Furniture,2.0,321.568
+CA-2016-107468,West,Office Supplies,2.0,6.848
+CA-2018-140186,West,Furniture,1.0,51.75
+CA-2015-131947,West,Office Supplies,2.0,5.248
+CA-2016-166975,South,Furniture,11.0,692.472
+CA-2016-162166,,,,
+CA-2018-124716,West,Office Supplies,2.0,110.96
+US-2015-143287,East,Office Supplies,5.0,46.35
+CA-2016-140025,Central,Office Supplies,8.0,463.248
+US-2017-100720,East,Technology,4.0,494.376
+US-2016-123960,South,Office Supplies,7.0,36.26
+CA-2017-150350,West,Office Supplies,5.0,43.1
+CA-2015-157784,South,Technology,3.0,479.97
+CA-2018-161984,East,Office Supplies,1.0,7.61
+CA-2017-130162,West,Technology,3.0,302.376
+CA-2018-137582,West,Office Supplies,3.0,11.808
+CA-2016-130659,East,Office Supplies,3.0,17.94
+CA-2018-122154,South,Office Supplies,1.0,17.43
+CA-2018-100622,South,Office Supplies,2.0,4.086
+CA-2018-107167,South,Office Supplies,8.0,1347.52
+CA-2018-152583,Central,Office Supplies,6.0,54.192
+CA-2016-110093,East,Office Supplies,2.0,16.448
+CA-2016-132626,East,Office Supplies,3.0,12.39
+CA-2016-141593,,,,
+CA-2018-105914,West,Office Supplies,5.0,112.12
+CA-2015-111059,West,Office Supplies,3.0,13.272
+CA-2018-121293,East,Furniture,4.0,20.096
+CA-2015-127866,West,Office Supplies,3.0,535.41
+CA-2017-112123,,,,
+CA-2015-151953,South,Office Supplies,2.0,2.816
+CA-2015-114517,East,Furniture,2.0,53.316
+CA-2016-161998,South,Office Supplies,6.0,172.704
+US-2018-112347,West,Furniture,8.0,242.352
+US-2018-169551,East,Technology,2.0,683.988
+CA-2016-101707,West,Office Supplies,3.0,32.94
+CA-2016-117415,Central,Furniture,3.0,532.3992
+CA-2018-113208,Central,Furniture,3.0,60.84
+CA-2015-149104,Central,Office Supplies,3.0,13.89
+CA-2018-140872,South,Office Supplies,3.0,4.554
+CA-2016-116092,West,Office Supplies,2.0,13.36
+CA-2018-131492,West,Furniture,2.0,30.56
+US-2017-102232,South,Office Supplies,7.0,197.05
+CA-2016-147501,West,Office Supplies,2.0,6.368
+CA-2015-107139,West,Office Supplies,6.0,180.96
+CA-2015-122567,Central,Office Supplies,3.0,1.08
+CA-2017-130946,Central,Furniture,4.0,95.984
+CA-2016-157322,Central,Office Supplies,5.0,68.6
+CA-2015-127131,West,Office Supplies,6.0,485.88
+CA-2017-106530,East,Office Supplies,2.0,25.12
+CA-2017-152765,Central,Office Supplies,7.0,173.488
+CA-2018-113278,Central,Technology,4.0,12.12
+CA-2018-127313,East,Furniture,5.0,79.12
+CA-2017-109820,East,Office Supplies,2.0,2.628
+US-2018-168690,South,Office Supplies,3.0,2.808
+CA-2017-112697,South,Office Supplies,2.0,194.528
+CA-2018-136364,East,Furniture,9.0,91.008
+CA-2017-100944,West,Furniture,5.0,563.24
+CA-2016-168564,West,Furniture,1.0,144.784
+CA-2018-121503,Central,Office Supplies,7.0,273.896
+CA-2018-130771,Central,Office Supplies,2.0,2.896
+CA-2016-149846,West,Technology,6.0,775.728
+CA-2017-113138,East,Office Supplies,3.0,17.712
+CA-2016-102036,West,Office Supplies,6.0,199.74
+CA-2017-105081,,,,
+CA-2016-149713,West,Office Supplies,14.0,160.72
+CA-2017-151148,West,Furniture,4.0,83.136
+CA-2018-115427,West,Office Supplies,2.0,20.72
+CA-2018-144596,East,Office Supplies,9.0,318.96
+CA-2017-118255,Central,Technology,2.0,45.98
+CA-2017-169943,East,Furniture,4.0,35.92
+CA-2017-105207,Central,Furniture,7.0,1592.85
+US-2015-143287,,,,
+CA-2017-156573,South,Office Supplies,3.0,11.277
+US-2018-106145,West,Furniture,3.0,9.24
+US-2018-167402,Central,Office Supplies,5.0,4164.05
+US-2018-100930,South,Furniture,3.0,258.072
+CA-2015-137092,Central,Office Supplies,1.0,3.808
+CA-2018-162033,South,Technology,3.0,53.25
+CA-2015-166457,South,Office Supplies,3.0,9.42
+US-2016-161991,Central,Office Supplies,5.0,2.08
+CA-2017-108210,Central,Technology,5.0,79.96
+CA-2018-100433,East,Office Supplies,4.0,25.92
+CA-2017-130400,Central,Technology,5.0,27.96
+CA-2018-128944,East,Technology,9.0,122.328
+CA-2015-132542,Central,Office Supplies,2.0,15.36
+US-2016-147662,East,Technology,3.0,71.976
+CA-2015-139451,West,Office Supplies,1.0,21.39
+CA-2017-105732,Central,Office Supplies,6.0,373.08
+CA-2017-131499,East,Office Supplies,1.0,207.48
+CA-2016-106257,West,Technology,2.0,479.92
+CA-2016-139248,West,Technology,5.0,623.96
+CA-2018-116946,West,Office Supplies,2.0,78.256
+CA-2017-146318,West,Office Supplies,2.0,12.96
+US-2016-118766,Central,Office Supplies,1.0,4.464
+CA-2015-131947,West,Technology,10.0,55.92
+CA-2018-105669,Central,Office Supplies,3.0,9.912
+CA-2015-108861,West,Office Supplies,4.0,136.96
+CA-2018-138289,Central,Office Supplies,4.0,5443.96
+CA-2015-162775,South,Office Supplies,2.0,11.36
+CA-2017-107202,West,Technology,10.0,2396.4
+US-2016-104430,Central,Office Supplies,4.0,5.176
+CA-2015-166086,East,Office Supplies,3.0,16.14
+US-2016-114741,West,Office Supplies,5.0,1325.85
+CA-2017-110254,South,Office Supplies,1.0,4.13
+CA-2018-168193,,,,
+CA-2015-154837,West,Office Supplies,2.0,49.568
+CA-2018-143686,West,Furniture,2.0,18.28
+CA-2017-144309,East,Office Supplies,2.0,18.54
+CA-2018-161200,South,Furniture,3.0,145.74
+CA-2018-110842,West,Office Supplies,3.0,19.44
+US-2015-164763,South,Office Supplies,2.0,12.96
+US-2016-138093,East,Technology,1.0,134.99
+US-2015-117135,South,Office Supplies,3.0,36.84
+CA-2015-157924,West,Office Supplies,4.0,31.92
+CA-2018-105130,West,Office Supplies,4.0,11.76
+CA-2017-161746,West,Office Supplies,3.0,340.92
+CA-2018-165841,East,Technology,3.0,281.97
+CA-2017-106278,West,Office Supplies,3.0,65.94
+CA-2017-145583,West,Office Supplies,4.0,11.52
+US-2015-147627,South,Furniture,4.0,38.6
+US-2016-163433,Central,Office Supplies,2.0,4.312
+US-2018-105935,South,Furniture,4.0,62.72
+CA-2018-155929,West,Office Supplies,2.0,6.368
+CA-2018-140585,,,,
+US-2015-150924,Central,Office Supplies,5.0,5.18
+CA-2016-164084,East,Office Supplies,3.0,70.26
+CA-2017-138037,West,Office Supplies,5.0,27.24
+CA-2018-139416,East,Furniture,2.0,15.008
+CA-2016-120439,East,Furniture,6.0,51.072
+CA-2017-145177,East,Office Supplies,4.0,9.216
+US-2015-161305,Central,Office Supplies,3.0,24.588
+CA-2016-151253,West,Office Supplies,3.0,64.14
+US-2017-166660,West,Furniture,1.0,48.58
+CA-2018-169439,East,Furniture,2.0,66.112
+CA-2018-112536,Central,Office Supplies,2.0,8.928
+CA-2017-148852,West,Office Supplies,7.0,45.36
+CA-2018-141572,East,Furniture,8.0,247.44
+CA-2018-121125,West,Technology,2.0,35.36
+CA-2018-130351,Central,Office Supplies,5.0,38.9
+CA-2016-144267,,,,
+CA-2017-137939,East,Technology,5.0,89.95
+CA-2018-133046,West,Office Supplies,4.0,26.2
+CA-2018-147354,West,Technology,2.0,479.984
+CA-2017-162187,East,Office Supplies,5.0,64.96
+CA-2018-102974,West,Office Supplies,3.0,16.74
+CA-2018-123134,East,Furniture,3.0,129.93
+CA-2015-143903,Central,Furniture,2.0,981.372
+US-2017-148957,,,,
+CA-2015-117639,South,Office Supplies,7.0,2715.93
+CA-2018-144638,East,Office Supplies,2.0,5.248
+CA-2018-123659,East,Office Supplies,4.0,23.12
+US-2016-160857,East,Furniture,3.0,79.44
+CA-2017-101966,Central,Technology,7.0,419.944
+CA-2015-110527,West,Office Supplies,8.0,20.88
+US-2015-122021,East,Furniture,2.0,183.372
+CA-2015-120544,Central,Technology,7.0,5.544
+CA-2015-163223,South,Office Supplies,3.0,122.94
+CA-2017-131289,West,Office Supplies,7.0,45.36
+CA-2015-135755,East,Office Supplies,3.0,10.896
+CA-2017-169670,East,Furniture,8.0,2563.056
+CA-2015-125829,West,Office Supplies,3.0,19.44
+CA-2016-148873,,,,
+CA-2016-162950,East,Furniture,6.0,482.94
+CA-2018-108294,Central,Office Supplies,3.0,34.5
+CA-2018-112487,East,Office Supplies,2.0,3.132
+US-2015-147774,South,Office Supplies,1.0,67.194
+CA-2017-140018,East,Furniture,3.0,127.554
+US-2018-119816,Central,Furniture,5.0,103.5
+CA-2016-128356,West,Office Supplies,2.0,10.944
+CA-2015-147235,East,Office Supplies,5.0,24.9
+CA-2017-126858,West,Furniture,2.0,31.96
+CA-2016-141250,Central,Furniture,4.0,199.304
+CA-2015-164469,West,Office Supplies,11.0,71.632
+CA-2018-161956,,,,
+CA-2016-135685,Central,Furniture,3.0,214.11
+CA-2017-160745,West,Technology,3.0,302.376
+CA-2015-103527,Central,Office Supplies,3.0,10.896
+CA-2018-102736,South,Office Supplies,5.0,71.96
+CA-2017-114405,East,Office Supplies,3.0,36.744
+CA-2017-142902,West,Furniture,1.0,15.232
+CA-2018-132619,West,Office Supplies,3.0,193.95
+CA-2018-166093,,,,
+CA-2015-166863,Central,Technology,2.0,201.584
+CA-2017-138233,West,Technology,3.0,479.97
+US-2018-112347,West,Office Supplies,8.0,36.624
+US-2017-165078,Central,Office Supplies,5.0,51.75
+US-2015-131982,West,Office Supplies,2.0,107.648
+CA-2017-114748,West,Office Supplies,1.0,1.408
+CA-2015-104738,Central,Office Supplies,3.0,12.984
+CA-2018-100111,East,Office Supplies,2.0,4.36
+CA-2018-107748,West,Technology,4.0,95.84
+CA-2017-113733,South,Technology,3.0,16.56
+US-2017-110170,Central,Furniture,7.0,956.6648
+CA-2016-137708,West,Office Supplies,10.0,42.8
+CA-2017-137127,East,Office Supplies,3.0,9.45
+CA-2016-157343,East,Office Supplies,4.0,18.312
+CA-2016-137113,West,Office Supplies,3.0,146.73
+CA-2017-111143,Central,Office Supplies,3.0,54.96
+US-2018-141852,West,Furniture,8.0,47.12
+US-2016-103996,West,Office Supplies,6.0,212.64
+CA-2015-156349,,,,
+CA-2017-127642,East,Office Supplies,2.0,111.96
+CA-2017-111682,,,,
+CA-2017-112697,South,Office Supplies,5.0,961.48
+US-2018-107979,West,Office Supplies,2.0,72.588
+CA-2016-159534,East,Technology,2.0,199.98
+CA-2015-154095,East,Furniture,3.0,60.72
+CA-2018-118017,West,Furniture,1.0,16.192
+CA-2018-105823,Central,Furniture,2.0,487.96
+CA-2018-168109,West,Technology,1.0,7.992
+CA-2016-131884,East,Furniture,1.0,70.686
+CA-2015-156349,,,,
+CA-2015-158372,West,Office Supplies,8.0,39.84
+CA-2016-141012,West,Technology,3.0,140.376
+US-2016-115238,East,Furniture,5.0,31.4
+US-2015-118486,East,Office Supplies,1.0,10.304
+CA-2015-108189,West,Technology,2.0,318.4
+US-2015-164763,,,,
+CA-2017-133816,East,Technology,2.0,743.988
+CA-2017-158043,East,Office Supplies,2.0,23.36
+CA-2018-167668,East,Office Supplies,4.0,59.2
+CA-2018-148411,Central,Furniture,2.0,520.464
+US-2015-164763,South,Office Supplies,3.0,11.43
+CA-2017-124681,Central,Technology,3.0,15.576
+CA-2015-146864,East,Office Supplies,4.0,216.4
+CA-2016-126697,Central,Technology,7.0,946.344
+CA-2018-104731,South,Office Supplies,6.0,19.68
+CA-2017-160395,West,Office Supplies,7.0,159.768
+US-2015-102071,West,Technology,3.0,167.97
+US-2018-126053,East,Furniture,2.0,41.96
+US-2015-114188,East,Furniture,7.0,139.86
+CA-2015-153087,South,Technology,5.0,498.0
+CA-2017-134348,West,Office Supplies,5.0,6.27
+CA-2017-138667,East,Technology,2.0,40.0
+CA-2015-131527,South,Technology,4.0,95.968
+CA-2018-163139,East,Office Supplies,5.0,17.52
+CA-2016-111514,West,Office Supplies,5.0,137.24
+CA-2018-129462,South,Office Supplies,3.0,180.66
+CA-2017-159765,South,Office Supplies,7.0,27.86
+CA-2015-145254,West,Technology,6.0,604.752
+CA-2015-107916,East,Furniture,2.0,13.28
+CA-2018-163265,Central,Office Supplies,3.0,50.352
+CA-2016-113628,South,Technology,1.0,100.792
+US-2018-102638,East,Office Supplies,3.0,6.03
+CA-2017-169026,South,Office Supplies,3.0,23.34
+CA-2018-169124,West,Furniture,3.0,129.39
+CA-2017-133697,Central,Office Supplies,7.0,51.016
+CA-2017-165484,Central,Furniture,7.0,16.156
+US-2017-169040,West,Office Supplies,5.0,189.7
+CA-2018-156272,South,Office Supplies,1.0,64.384
+CA-2017-128867,Central,Office Supplies,6.0,27.24
+US-2018-169488,East,Office Supplies,2.0,39.96
+CA-2018-113530,West,Office Supplies,2.0,3.52
+CA-2018-134306,East,Office Supplies,2.0,12.96
+CA-2015-144666,West,Technology,4.0,703.968
+US-2017-115455,Central,Furniture,2.0,14.136
+CA-2016-164882,,,,
+CA-2017-118255,Central,Office Supplies,2.0,17.46
+CA-2016-137974,South,Furniture,9.0,523.26
+CA-2015-131002,Central,Office Supplies,3.0,42.81
+CA-2016-104514,East,Office Supplies,3.0,20.04
+CA-2015-124856,East,Office Supplies,2.0,77.52
+CA-2018-112809,Central,Office Supplies,5.0,21.38
+CA-2015-139857,West,Office Supplies,5.0,12.35
+CA-2016-122406,East,Office Supplies,2.0,8.4
+CA-2015-167360,Central,Technology,7.0,111.79
+CA-2017-146374,East,Furniture,1.0,13.4
+CA-2018-152261,East,Office Supplies,4.0,18.528
+CA-2018-167003,,,,
+CA-2018-166093,,,,
+CA-2017-134803,,,,
+CA-2018-155089,South,Office Supplies,5.0,45.66
+CA-2016-111164,East,Technology,3.0,85.14
+US-2018-131961,East,Office Supplies,4.0,13.248
+CA-2017-169838,Central,Office Supplies,1.0,17.3
+CA-2016-138009,Central,Office Supplies,5.0,555.21
+CA-2015-139192,West,Technology,1.0,99.99
+US-2015-138247,West,Technology,7.0,173.656
+CA-2018-106964,West,Office Supplies,2.0,11.808
+US-2015-150574,,,,
+CA-2017-124527,West,Office Supplies,5.0,8.32
+CA-2018-157966,Central,Furniture,1.0,89.768
+US-2016-145422,West,Furniture,3.0,359.499
+CA-2018-100111,East,Furniture,11.0,2888.127
+CA-2018-136875,West,Office Supplies,3.0,166.44
+US-2018-106131,West,Office Supplies,9.0,168.624
+CA-2018-102519,Central,Furniture,1.0,46.94
+CA-2015-168368,Central,Office Supplies,2.0,9.64
+CA-2015-134726,West,Technology,1.0,52.792
+CA-2018-131618,,,,
+CA-2018-113075,Central,Technology,3.0,40.68
+CA-2018-117457,West,Furniture,7.0,1004.024
+CA-2018-120761,East,Technology,4.0,91.96
+CA-2018-122077,Central,Office Supplies,4.0,13.216
+CA-2017-121671,Central,Office Supplies,3.0,21.93
+CA-2017-124100,East,Furniture,6.0,327.996
+CA-2018-134418,West,Office Supplies,3.0,12.42
+CA-2018-168389,South,Technology,4.0,73.568
+CA-2016-159534,East,Office Supplies,8.0,1087.936
+CA-2017-165918,West,Office Supplies,2.0,7.38
+CA-2017-128671,Central,Office Supplies,2.0,77.56
+CA-2016-167255,West,Office Supplies,1.0,15.51
+CA-2016-134201,East,Office Supplies,3.0,14.67
+CA-2018-115546,East,Office Supplies,2.0,22.58
+CA-2017-129728,West,Furniture,8.0,167.84
+CA-2016-162761,South,Office Supplies,2.0,11.214
+CA-2018-130351,Central,Technology,3.0,99.39
+CA-2016-139164,West,Technology,3.0,143.976
+CA-2018-141929,West,Technology,1.0,5.56
+CA-2017-120873,South,Furniture,1.0,290.98
+CA-2015-160738,Central,Office Supplies,2.0,45.248
+CA-2016-141145,South,Technology,3.0,87.168
+CA-2016-120320,Central,Technology,2.0,31.92
+CA-2018-127026,Central,Technology,5.0,619.95
+CA-2018-111591,West,Office Supplies,4.0,359.32
+CA-2018-132185,South,Office Supplies,1.0,43.584
+CA-2017-120873,,,,
+CA-2016-105347,West,Office Supplies,9.0,368.91
+CA-2017-113733,South,Technology,2.0,249.584
+US-2018-128398,West,Technology,4.0,159.56
+CA-2018-100160,East,Office Supplies,3.0,15.552
+CA-2015-149958,South,Office Supplies,4.0,43.188
+CA-2016-110289,West,Office Supplies,4.0,210.84
+US-2018-134481,East,Furniture,7.0,1488.424
+CA-2016-119879,East,Furniture,8.0,1252.704
+CA-2017-151512,West,Office Supplies,2.0,18.72
+US-2018-162670,South,Office Supplies,2.0,44.96
+CA-2016-127509,Central,Furniture,7.0,1024.38
+CA-2015-164182,East,Furniture,2.0,31.984
+US-2015-105151,East,Office Supplies,5.0,10.5
+CA-2016-158456,West,Office Supplies,4.0,19.936
+CA-2018-103156,East,Furniture,9.0,24.048
+CA-2018-137428,West,Furniture,2.0,18.96
+CA-2015-100762,,,,
+CA-2015-166863,Central,Office Supplies,4.0,3.392
+CA-2015-123316,East,Office Supplies,3.0,7.752
+US-2018-110989,West,Technology,3.0,43.5
+CA-2018-151750,Central,Office Supplies,5.0,6.47
+CA-2018-146920,Central,Office Supplies,6.0,25.344
+CA-2018-148922,South,Technology,3.0,38.97
+CA-2018-112529,Central,Furniture,6.0,718.116
+US-2018-145863,Central,Office Supplies,3.0,2.934
+CA-2016-153717,Central,Office Supplies,3.0,17.34
+CA-2017-123120,East,Office Supplies,4.0,22.72
+CA-2018-167871,South,Office Supplies,1.0,2.944
+CA-2018-111269,East,Technology,6.0,479.952
+CA-2016-166492,East,Office Supplies,2.0,22.58
+CA-2018-100902,South,Office Supplies,7.0,268.24
+CA-2015-133158,West,Office Supplies,2.0,69.456
+CA-2018-155047,Central,Office Supplies,1.0,5.952
+CA-2017-133319,East,Office Supplies,4.0,192.16
+CA-2016-141243,Central,Office Supplies,3.0,7.056
+CA-2018-126396,Central,Technology,6.0,85.2
+CA-2015-107818,West,Office Supplies,6.0,485.88
+CA-2018-137631,South,Technology,2.0,751.984
+CA-2017-109827,West,Technology,2.0,269.97
+CA-2018-117926,West,Office Supplies,1.0,69.48
+CA-2016-101707,West,Office Supplies,5.0,114.2
+CA-2017-101693,Central,Furniture,2.0,32.712
+CA-2018-152961,East,Office Supplies,2.0,12.7
+US-2018-164147,East,Technology,5.0,59.97
+CA-2016-103177,East,Technology,3.0,239.97
+CA-2018-148138,East,Office Supplies,2.0,51.168
+CA-2018-105333,East,Technology,3.0,546.06
+CA-2017-166674,East,Office Supplies,3.0,161.94
+CA-2017-102813,Central,Office Supplies,8.0,41.472
+CA-2016-113173,Central,Office Supplies,5.0,8.72
+CA-2018-138618,Central,Office Supplies,2.0,10.368
+CA-2015-144414,West,Office Supplies,5.0,17.9
+CA-2016-119480,South,Office Supplies,3.0,163.44
+CA-2016-146038,West,Furniture,5.0,203.92
+CA-2018-118199,West,Office Supplies,3.0,104.28
+CA-2015-104402,East,Technology,3.0,65.97
+CA-2018-112473,Central,Office Supplies,3.0,50.136
+US-2017-156986,,,,
+CA-2017-129126,East,Office Supplies,2.0,23.12
+CA-2018-155698,South,Office Supplies,8.0,647.84
+CA-2018-152198,East,Office Supplies,3.0,4.86
+CA-2017-157217,West,Technology,3.0,389.97
+CA-2016-127509,Central,Office Supplies,3.0,17.34
+CA-2017-101161,East,Furniture,3.0,82.26
+CA-2017-165673,East,Office Supplies,4.0,15.232
+CA-2017-114209,Central,Office Supplies,2.0,1.964
+US-2016-128090,,,,
+CA-2018-169999,East,Office Supplies,3.0,11.568
+US-2015-150119,East,Office Supplies,8.0,7.488
+CA-2017-103464,West,Technology,5.0,595.0
+CA-2017-145261,,,,
+CA-2015-169775,South,Office Supplies,4.0,505.176
+CA-2018-137596,Central,Office Supplies,2.0,352.38
+CA-2015-117345,South,Office Supplies,2.0,78.304
+US-2017-127425,East,Technology,5.0,249.95
+CA-2016-129322,East,Office Supplies,7.0,447.86
+CA-2017-101742,East,Office Supplies,7.0,10.528
+CA-2017-154018,Central,Office Supplies,2.0,8.288
+US-2017-125969,West,Furniture,2.0,81.424
+CA-2017-136924,,,,
+CA-2018-132976,East,Office Supplies,6.0,59.712
+CA-2015-141355,West,Office Supplies,2.0,14.576
+US-2017-112977,East,Furniture,1.0,176.784
+CA-2018-151484,East,Office Supplies,1.0,332.704
+CA-2015-125731,West,Office Supplies,7.0,21.728
+CA-2017-141957,East,Office Supplies,7.0,11.088
+CA-2015-135608,West,Office Supplies,2.0,45.68
+CA-2015-141901,West,Office Supplies,1.0,5.98
+CA-2018-123981,East,Technology,1.0,65.99
+CA-2017-112109,West,Office Supplies,4.0,8.736
+CA-2017-114951,West,Furniture,3.0,22.14
+CA-2017-154053,West,Office Supplies,1.0,16.99
+CA-2017-133613,East,Office Supplies,3.0,9.84
+CA-2018-135860,Central,Office Supplies,9.0,52.29
+CA-2016-113523,East,Office Supplies,4.0,7.656
+CA-2015-129364,West,Technology,10.0,103.92
+US-2016-120502,West,Office Supplies,2.0,75.84
+CA-2017-148684,South,Office Supplies,9.0,19.89
+CA-2015-111934,South,Office Supplies,2.0,11.88
+US-2018-132675,South,Technology,2.0,89.9
+CA-2017-152289,Central,Furniture,6.0,1024.716
+CA-2016-140830,South,Office Supplies,2.0,71.88
+CA-2017-126732,West,Furniture,3.0,568.728
+CA-2017-125087,Central,Office Supplies,3.0,1554.936
+CA-2015-142510,Central,Office Supplies,1.0,132.16
+US-2016-159982,Central,Furniture,9.0,12.132
+CA-2018-137463,West,Technology,5.0,149.95
+CA-2015-127523,East,Office Supplies,3.0,35.91
+CA-2017-147375,,,,
+CA-2015-125997,East,Furniture,2.0,801.568
+CA-2016-166583,Central,Technology,3.0,971.88
+CA-2018-107713,East,Office Supplies,3.0,174.3
+CA-2016-131597,West,Furniture,3.0,170.136
+CA-2018-158071,West,Office Supplies,1.0,15.58
+CA-2015-154599,West,Office Supplies,7.0,18.088
+US-2016-129007,West,Office Supplies,3.0,25.032
+CA-2016-112014,West,Office Supplies,5.0,50.8
+CA-2018-120404,East,Furniture,3.0,50.97
+CA-2018-147039,Central,Office Supplies,3.0,362.94
+CA-2018-101434,East,Technology,3.0,239.97
+US-2018-112347,West,Furniture,6.0,508.704
+CA-2017-102561,East,Office Supplies,8.0,11.264
+CA-2015-113320,West,Office Supplies,3.0,8.94
+US-2016-152128,Central,Office Supplies,2.0,127.96
+CA-2016-111164,East,Technology,1.0,21.99
+CA-2015-118304,East,Technology,2.0,19.98
+US-2015-157385,West,Office Supplies,3.0,21.84
+CA-2016-124800,West,Office Supplies,2.0,72.588
+CA-2018-169012,South,Office Supplies,3.0,41.91
+US-2015-117163,West,Office Supplies,4.0,36.44
+CA-2016-162964,Central,Office Supplies,3.0,15.552
+CA-2015-124702,West,Furniture,4.0,730.2
+CA-2017-158778,East,Furniture,2.0,71.246
+CA-2015-133634,South,Technology,3.0,47.79
+CA-2018-105921,West,Furniture,3.0,418.296
+CA-2015-102274,South,Office Supplies,6.0,629.1
+CA-2017-112340,West,Office Supplies,3.0,22.92
+CA-2018-146164,Central,Office Supplies,2.0,31.16
+CA-2018-104731,South,Office Supplies,6.0,101.94
+CA-2017-128811,West,Office Supplies,3.0,11.07
+CA-2018-117667,East,Technology,4.0,255.968
+CA-2016-132465,East,Office Supplies,1.0,78.8
+CA-2017-158001,East,Office Supplies,5.0,21.3
+CA-2018-132185,South,Office Supplies,5.0,8.76
+US-2017-140158,East,Office Supplies,3.0,119.1
+CA-2018-143567,South,Technology,9.0,2249.91
+CA-2016-120845,South,Office Supplies,4.0,6.336
+CA-2018-121048,West,Office Supplies,2.0,4.448
+CA-2018-117114,Central,Office Supplies,3.0,9.912
+CA-2017-158568,Central,Office Supplies,7.0,64.624
+US-2018-116505,East,Office Supplies,6.0,43.8
+US-2015-147627,South,Office Supplies,3.0,23.34
+CA-2016-102778,South,Furniture,1.0,18.176
+CA-2015-156433,West,Office Supplies,2.0,9.96
+CA-2018-152660,,,,
+CA-2015-114790,South,Office Supplies,3.0,14.94
